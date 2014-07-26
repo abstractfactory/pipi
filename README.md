@@ -1,8 +1,7 @@
 ![](images/title.png)
 
-### The World's Greatest Digital Asset Management System
+### Pipeline. Simplified.
 
-This serves as the central location for everything Pipi. Hosted on [GitHub][github], licensed under [LGPLv3][lgpl], which means it is open to you, the users, for scrutiny and contribution.
+This repo serves as a Wiki for the Pipi project.
 
-[github]: http://www.github.com
-[lgpl]: http://opensource.org/licenses/lgpl-3.0.html
+Head over to the [Home](https://github.com/abstractfactory/pipi/wiki) for further information on how you can get involved.
